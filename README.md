@@ -1,5 +1,7 @@
 # Adobe Coldfusion BlazeDS Java Object Deserialization RCE
 
+Exploit-DB: https://www.exploit-db.com/exploits/43993/
+
 Exploit Title: Adobe Coldfusion BlazeDS Java Object Deserialization RCE
 
 Date: February 6, 2018
